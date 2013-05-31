@@ -1,0 +1,27 @@
+--- 
+:connecting_to: "Connessione a #{0}:#{1}..."
+:parsing: "Lettura: #{0}"
+:notice_message_from: "Notifica da #{0}: #{1}"
+:private_message_from: "Messaggio privato da #{0}: #{1}"
+:authenticating: "Autenticazione..."
+:disconnected: "#{0} si e' disconnesso!"
+:joined: "#{0} e' entrato!"
+:changed_nick_into: "#{0} ha cambiato il nome in: #{1}"
+:parsing_list_of_users: "Lettura lista utenti: #{0}"
+:retrieving_user_info: "Ricevo le informazioni di #{0}..."
+:you_are_now_authenticated: "Ora sei autenticato!"
+:user_authenticated: "L'utente #{0} si e' autenticato!"
+:nick_is_registered: "#{0} e' registrato!"
+:access_denied: "Accesso negato!"
+:command: "comando"
+:invalid_user_discarding_querying_nickserv_again_and_sending_notice: "Utente invalido #{0}! Scarto, chiedo al nickserv di nuovo e invio la notifica..."
+:subversion_not_found: "Non riesco a trovare svn nella tua PATH. Per favore aggiungi la locazione di svn alla tua variabile PATH"
+:new_commit_made: "Commit fatto sul repository #{0}"
+:name_no_help_is_available: "#{0} e' un bot e non c'e' aiuto disponibile"
+
+
+
+
+
+
+
